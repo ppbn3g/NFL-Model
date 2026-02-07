@@ -1,0 +1,29 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# Generated data & models (re-creatable by running the pipeline)
+data/
+models/
+src/data/
+src/models/
+reports/
+src/reports/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+nul
